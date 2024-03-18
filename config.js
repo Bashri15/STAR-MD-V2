@@ -52,10 +52,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'STAR-MD-V2'
+global.botname = 'ʙᴀꜱʜʀɪɪɪ-ᴍᴅ'
 global.premium = 'true'
-global.packname = 'STAR-MD' 
-global.author = '@Excel' 
+global.packname = 'ʙᴀꜱʜʀɪɪɪ-ᴍᴅ' 
+global.author = '@𝐌𝐔𝐁𝐀𝐒𝐇𝐈𝐑 𝐑𝐀𝐉𝐏𝐔𝐓' 
 global.menuvid = 'https://i.imgur.com/BPqmxsm.mp4'
 global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
 global.dygp='▢✓ Follow My channel\nhttps://chat.whatsapp.com/Lg0lY4M1k8oDMYzylg86xs\n'
